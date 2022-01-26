@@ -1,0 +1,24 @@
+img{
+    width: 135px;
+    height: 100px;
+}
+
+tbody{
+    height: 430px;
+}
+
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 500px;
+    overflow: auto;
+    }
+    .table-wrapper-scroll-y {
+    display: block;
+    }
+  
+    thead tr th { 
+      position: sticky;
+      top: 0;
+      background: black;
+  }
