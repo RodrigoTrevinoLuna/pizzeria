@@ -1,0 +1,30 @@
+#img-a{
+    background:darkturquoise;
+}
+#img-b{
+    background: cyan;
+}
+#img-c{
+    background: green;
+}
+#img-d{
+    background: orange;
+}
+img{
+    height: 100px;
+}
+
+#inventario{
+
+background: rgba(2, 133, 2, 0.973);
+}
+
+#txtventa{
+  background: rgba(9, 9, 190, 0.877);
+}
+#cocina{
+    background: chocolate;
+}
+#txtCocina{
+    background: rgb(245, 78, 17);
+}
